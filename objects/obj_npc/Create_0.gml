@@ -1,0 +1,1 @@
+nome = "NPC1 Rosa";
